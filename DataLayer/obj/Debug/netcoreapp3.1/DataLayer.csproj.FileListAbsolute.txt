@@ -1,0 +1,8 @@
+E:\MVC\WORK\RIMC_WEBAPI\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.deps.json
+E:\MVC\WORK\RIMC_WEBAPI\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.dll
+E:\MVC\WORK\RIMC_WEBAPI\DataLayer\bin\Debug\netcoreapp3.1\DataLayer.pdb
+E:\MVC\WORK\RIMC_WEBAPI\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfoInputs.cache
+E:\MVC\WORK\RIMC_WEBAPI\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.AssemblyInfo.cs
+E:\MVC\WORK\RIMC_WEBAPI\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.dll
+E:\MVC\WORK\RIMC_WEBAPI\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.pdb
+E:\MVC\WORK\RIMC_WEBAPI\DataLayer\obj\Debug\netcoreapp3.1\DataLayer.csprojAssemblyReference.cache

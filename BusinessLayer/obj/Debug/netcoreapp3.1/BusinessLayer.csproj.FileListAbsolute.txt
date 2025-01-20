@@ -1,0 +1,16 @@
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.deps.json
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\bin\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csprojAssemblyReference.cache
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CoreCompileInputs.cache
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfoInputs.cache
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.AssemblyInfo.cs
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.dll
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.pdb
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\obj\Debug\netcoreapp3.1\BusinessLayer.csproj.CopyComplete
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\bin\Debug\netcoreapp3.1\DALayer.dll
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\bin\Debug\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Data.dll
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\bin\Debug\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Common.dll
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\bin\Debug\netcoreapp3.1\DALayer.pdb
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\bin\Debug\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Data.xml
+E:\MVC\WORK\RIMC_WEBAPI\BusinessLayer\bin\Debug\netcoreapp3.1\Microsoft.Practices.EnterpriseLibrary.Common.xml
