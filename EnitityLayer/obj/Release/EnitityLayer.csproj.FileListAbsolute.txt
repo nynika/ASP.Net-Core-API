@@ -1,0 +1,190 @@
+F:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+F:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+F:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+F:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+F:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+F:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+F:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+F:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+E:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+E:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+E:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+E:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+E:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+E:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+E:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+E:\Pradeep\WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+D:\Jeyaganesh\visual\work\web\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+D:\Jeyaganesh\visual\work\web\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+D:\Jeyaganesh\visual\work\web\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+D:\Jeyaganesh\visual\work\web\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+D:\Jeyaganesh\visual\work\web\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+D:\Jeyaganesh\visual\work\web\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+D:\Jeyaganesh\visual\work\web\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+D:\Jeyaganesh\visual\work\web\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+G:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+G:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+G:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+G:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+G:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+G:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+G:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+G:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+E:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+E:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+E:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+E:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.AssemblyReference.cache
+E:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+E:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+E:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+E:\Visual\Final_Source\web source\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+E:\Visual\API_Details\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+E:\Visual\API_Details\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+E:\Visual\API_Details\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+E:\Visual\API_Details\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+E:\Visual\API_Details\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+E:\Visual\API_Details\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+E:\Visual\API_Details\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+E:\Visual\API_Details\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.AssemblyReference.cache
+D:\Jeyaganesh\visual\work\Praba\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+D:\Jeyaganesh\visual\work\Praba\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+D:\Jeyaganesh\visual\work\Praba\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+D:\Jeyaganesh\visual\work\Praba\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+D:\Jeyaganesh\visual\work\Praba\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+D:\Jeyaganesh\visual\work\Praba\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+D:\Jeyaganesh\visual\work\Praba\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+D:\Jeyaganesh\visual\work\Praba\RIMC_WEBAPI\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+F:\peraman HIS\jei Source\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+F:\peraman HIS\jei Source\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+F:\peraman HIS\jei Source\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+F:\peraman HIS\jei Source\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+F:\peraman HIS\jei Source\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+F:\peraman HIS\jei Source\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+F:\peraman HIS\jei Source\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+F:\peraman HIS\jei Source\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+F:\peraman HIS\Prabha\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+F:\peraman HIS\Prabha\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+F:\peraman HIS\Prabha\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+F:\peraman HIS\Prabha\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+F:\peraman HIS\Prabha\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+F:\peraman HIS\Prabha\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+F:\peraman HIS\Prabha\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+F:\peraman HIS\Prabha\RIMC_WEBAPI\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+F:\Visual\Prabha\portal\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+F:\Visual\Prabha\portal\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+F:\Visual\Prabha\portal\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+F:\Visual\Prabha\portal\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+F:\Visual\Prabha\portal\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+F:\Visual\Prabha\portal\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+F:\Visual\Prabha\portal\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+F:\Visual\Prabha\portal\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+E:\ArunKumar\kumar\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+E:\ArunKumar\kumar\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+E:\ArunKumar\kumar\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+E:\ArunKumar\kumar\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+E:\ArunKumar\kumar\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+E:\ArunKumar\kumar\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+E:\ArunKumar\kumar\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+E:\ArunKumar\kumar\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+C:\Users\mpc\Desktop\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+C:\Users\mpc\Desktop\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+C:\Users\mpc\Desktop\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+C:\Users\mpc\Desktop\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+C:\Users\mpc\Desktop\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+C:\Users\mpc\Desktop\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+C:\Users\mpc\Desktop\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+C:\Users\mpc\Desktop\RIMC_WEBAPI03_01_2023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csprojAssemblyReference.cache
+F:\Visual\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+F:\Visual\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+F:\Visual\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll.config
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\Newtonsoft.Json.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Buffers.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Memory.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Numerics.Vectors.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Encodings.Web.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Json.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Threading.Tasks.Extensions.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ValueTuple.dll
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\Newtonsoft.Json.xml
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Buffers.xml
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Memory.xml
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Numerics.Vectors.xml
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Encodings.Web.xml
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Json.xml
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Threading.Tasks.Extensions.xml
+F:\Visual\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ValueTuple.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll.config
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Newtonsoft.Json.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Buffers.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Memory.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Numerics.Vectors.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Encodings.Web.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Json.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ValueTuple.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Newtonsoft.Json.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Buffers.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Memory.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Numerics.Vectors.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Encodings.Web.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Json.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ValueTuple.xml
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.AssemblyReference.cache
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+C:\sujithra API\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll.config
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\EnitityLayer.pdb
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Owin.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Owin.Security.Cookies.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Owin.Security.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Newtonsoft.Json.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Owin.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Buffers.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ComponentModel.Annotations.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Memory.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Numerics.Vectors.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Encodings.Web.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Json.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Threading.Tasks.Extensions.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ValueTuple.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Owin.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Owin.Security.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Microsoft.Owin.Security.Cookies.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\Newtonsoft.Json.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Buffers.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Memory.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Numerics.Vectors.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Runtime.CompilerServices.Unsafe.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Encodings.Web.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Text.Json.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.Threading.Tasks.Extensions.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\bin\Release\System.ValueTuple.xml
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.AssemblyReference.cache
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CoreCompileInputs.cache
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.csproj.CopyComplete
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.dll
+C:\Sujithra API\16022024\RIMC_WEBAPI_30012024\RIMC_WEBAPI_10112023\RIMC_WEBAPI\EnitityLayer\obj\Release\EnitityLayer.pdb
